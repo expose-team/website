@@ -1,0 +1,162 @@
+title: Expose Team
+description: Harness the power of open-source intelligence
+hero:
+  title: Harness the power of open-source intelligence
+  subtitle: COMING SOON
+sections:
+  - title: The power of our service
+    description: Aliqua labore laboris fugiat. Reprehenderit exercitation eu commodo. Officia nostrud sit et aliqua ea ex sunt minim incididunt sunt.
+    id: features
+    align: left
+    features:
+      - name: Easy to use
+        description: Id laborum laboris duis nostrud excepteur ut velit.
+        icon: i-heroicons-cog
+      - name: Reliable
+        description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
+        icon: i-heroicons-check
+      - name: Secure
+        description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing.
+        icon: i-heroicons-lock-closed
+    links:
+      - label: Explore components
+        to: /pro/components
+        color: gray
+        icon: i-heroicons-arrow-right-20-solid
+        trailing: true
+        size: md
+        class: ml-8
+  - title: The speed of our service
+    description: Cillum sint enim excepteur ut deserunt qui nisi in deserunt in. Deserunt aliquip quis aliquip eu quis ex velit velit nostrud sit.
+    align: right
+    features:
+      - name: Fast
+        description: Qui reprehenderit nostrud dolore nisi ad fugiat labore eiusmod.
+        icon: i-heroicons-rocket-launch
+      - name: Affordable
+        description: Reprehenderit fugiat elit in do ipsum ut pariatur.
+        icon: i-heroicons-currency-dollar
+      - name: Scalable
+        description: Lorem deserunt et eiusmod. Ea in consectetur minim officia.
+        icon: i-heroicons-chart-bar
+    links:
+      - label: Learn more
+        to: /pro/guide/content
+        color: gray
+        icon: i-heroicons-arrow-right-20-solid
+        trailing: true
+        size: md
+        class: ml-8
+features:
+  title: Features
+  description: Powerful, flexible and data-driven, Expose makes it easy to unlock hidden insights
+  items:
+    - title: Easy to use
+      description: Id laborum laboris duis nostrud excepteur ut velit nulla magna Lorem proident non.
+      icon: i-heroicons-cog
+    - title: Reliable
+      description: Magna Lorem ex cillum fugiat ad enim aute irure sit duis minim.
+      icon: i-heroicons-check
+    - title: Secure
+      description: Proident nostrud excepteur sint ut culpa consectetur aute adipisicing non anim ullamco.
+      icon: i-heroicons-lock-closed
+    - title: Fast
+      description: Qui reprehenderit nostrud dolore nisi ad fugiat labore eiusmod sint aliquip nisi voluptate.
+      icon: i-heroicons-rocket-launch
+    - title: Affordable
+      description: Reprehenderit fugiat elit in do ipsum ut pariatur.
+      icon: i-heroicons-currency-dollar
+    - title: Scalable
+      description: Lorem deserunt et eiusmod. Ea in consectetur minim officia ullamco enim deserunt est.
+      icon: i-heroicons-chart-bar
+pricing:
+  title: Pricing
+  description: The right price for you, whoever you are
+  hobby:
+    title: Hobby
+    description: The perfect plan if you're just getting started with our product.
+    price: 19
+    features:
+      - Profiling system
+      - Topic monitoring
+      - Advanced workspace and project management
+
+  professional:
+    title: Professional
+    description: Professional tools and features, get the most out of our product.
+    price: 49
+    features:
+      - Unlimited products
+      - Unlimited subscribers
+      - Advanced analytics
+      - Dedicated support representative
+      - Marketing automations
+      - Custom integrations
+testimonials:
+  title: Testimonials
+  description: What the community says
+  items:
+    - quote: Nostrud tempor sunt fugiat. Dolor in sint dolore labore non occaecat adipisicing Lorem labore ullamco enim excepteur. In fugiat Lorem sit velit id veniam esse eiusmod non ea voluptate cupidatat reprehenderit ullamco dolore. Mollit laborum occaecat aliquip.
+      author:
+        name: Rose Roberson
+        description: CEO at Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=1
+          loading: lazy
+    - quote: Eiusmod dolor aute ut nulla pariatur officia consequat aute amet exercitation.
+      author:
+        name: Chace Rodgers
+        description: CEO at Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=7
+          loading: lazy
+    - quote: Id duis velit enim officia ad nisi incididunt magna ex dolor minim deserunt dolor. Esse incididunt cillum nostrud esse do quis amet labore amet nulla eiusmod amet nulla Lorem. Incididunt ex voluptate irure officia laboris ea proident est qui.
+      author:
+        name: Cornelius Sheppard
+        description: CEO at Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=3
+          loading: lazy
+    - quote: Velit consectetur in adipisicing culpa eiusmod commodo eu ex dolore. Officia irure nisi dolor dolore velit fugiat. Aliqua sint aliqua aute elit eu sunt.
+      author:
+        name: Destinee Woods
+        description: CEO at Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=5
+          loading: lazy
+    - quote: Proident quis deserunt qui ex exercitation veniam id Lorem est cupidatat ipsum irure aliquip ad.
+      author:
+        name: Kaleb Mccormick
+        description: CEO at Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=8
+          loading: lazy
+    - quote: Magna officia quis ea ea in officia non voluptate ipsum culpa do labore sunt. Aute est dolore commodo sint officia ad laboris dolor magna aliquip exercitation tempor commodo.
+      author:
+        name: Jazmin Mccall
+        description: CEO at Company
+        avatar:
+          src: https://i.pravatar.cc/120?img=9
+          loading: lazy
+faq:
+  title: Frequently asked questions
+  description: Culpa consectetur dolor pariatur commodo aliqua amet tempor.
+  items:
+    - label: Is this a secure service?
+      content: Qui sunt nostrud aliquip reprehenderit enim proident veniam magna aliquip velit occaecat eiusmod nisi deserunt sunt.
+      opened: false
+    - label: How can I cancel my subscription?
+      content: Consectetur irure Lorem nostrud adipisicing aliqua mollit Lorem sit officia magna eiusmod cupidatat.
+      opened: false
+    - label: How does the free trial work?
+      content: Quis officia commodo magna eu qui aliquip duis.
+      opened: false
+    - label: Can I switch plans later?
+      content: Dolore irure ullamco dolore eu occaecat magna eiusmod dolor aliqua culpa labore.
+      opened: false
+    - label: Do you offer refunds?
+      content: Duis mollit nostrud voluptate mollit Lorem dolore commodo veniam incididunt eiusmod.
+      opened: false
+    - label: Do you offer support?
+      content: Aliqua sit nisi consequat pariatur Lorem minim irure qui.
+      opened: false
